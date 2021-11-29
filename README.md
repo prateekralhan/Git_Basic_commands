@@ -1,4 +1,5 @@
-# Git_Basic_commands 📜:smile::heart:
+# Git_Basic_commands 📜:smile::heart: [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 
 ## Tell Git who you are	Configure the author name and email address to be used with your commits.
 ### Note that Git strips some characters (for example trailing periods) from user.name.
